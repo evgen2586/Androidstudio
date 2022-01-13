@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Датчикометр</string>
+    <string name="datchiki_glav_text">Датчики</string>
+    <string name="button_001">Акселерометр</string>
+    <string name="button_002">Датчик давления</string>
+    <string name="button_003">Магнитометр</string>
+    <string name="button_004">Датчик освещённости</string>
+    <string name="button_005">Гироскоп</string>
+    <string name="button_006">Датчик ореинтации</string>
+    <string name="text_rad">Градусы поворота</string>
+</resources>
